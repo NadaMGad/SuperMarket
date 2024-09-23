@@ -1,0 +1,63 @@
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\bin\Debug\SuperMarket Team.exe.config
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\bin\Debug\SuperMarket Team.exe
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\bin\Debug\SuperMarket Team.pdb
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.AssemblyReference.cache
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Form1.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Form2.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Form3.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Properties.Resources.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.GenerateResource.cache
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket Team.exe
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket Team.pdb
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Product.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Browsing_Product.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Admin_Form.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Customer_Form.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.SuperMarket.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Available_Products.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Department.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Form4.resources
+C:\Users\www\source\repos\SuperMarket Team\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Settings.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.exe.config
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.exe
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.pdb
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.AssemblyReference.cache
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form1.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form2.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form3.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form4.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.SuperMarket.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Department.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Product.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Admin_Form.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Available_Products.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Browsing_Product.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Customer_Form.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Settings.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Properties.Resources.resources
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.GenerateResource.cache
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.CoreCompileInputs.cache
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.exe
+C:\Users\www\source\repos\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.pdb
+E:\Projects\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.exe.config
+E:\Projects\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.exe
+E:\Projects\20201191_17\SuperMarket Team\bin\Debug\SuperMarket Team.pdb
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.AssemblyReference.cache
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form1.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form2.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form3.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Form4.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.SuperMarket.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Department.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Add_Product.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Admin_Form.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Available_Products.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Browsing_Product.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Customer_Form.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Forms.Settings.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket_Team.Properties.Resources.resources
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.GenerateResource.cache
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.csproj.CoreCompileInputs.cache
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.exe
+E:\Projects\20201191_17\SuperMarket Team\obj\Debug\SuperMarket Team.pdb
